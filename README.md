@@ -1,4 +1,4 @@
 yui-prettify
 ============
 
-This is a customized version of Prettify
+This builds a customized version of Prettify for use in YUI tools.
